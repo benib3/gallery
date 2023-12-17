@@ -1,0 +1,21 @@
+.footer{
+    /* background-color: #5A96E3 !important; */
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.bg-selected{
+    background-color: #2760aa5d;
+    border-radius: 1px;
+}
+.glass-bg{
+    width: 50%;
+    margin-bottom: 10px;
+    background-color: rgba(47, 138, 199, 0.1);
+    backdrop-filter: blur(5px);
+    border-radius: 10px;
+}
+.bg-hover:hover{
+    background-color: #2760aaca;
+    border-radius: 1px;
+}
